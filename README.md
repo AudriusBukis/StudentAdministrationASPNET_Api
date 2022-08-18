@@ -5,7 +5,9 @@
 NuGet pacages was used
 
 1)Microsoft.EntityFrameworkCore version 6.0.8
+
 2)Microsoft.EntityFrameworkCore.SqlServer version 6.0.8
+
 3)Microsoft.EntityFrameworkCore.Tools version 6.0.8
 
 Task diskription
